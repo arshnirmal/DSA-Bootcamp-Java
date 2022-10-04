@@ -10,10 +10,10 @@
 - [Square Root](https://leetcode.com/problems/sqrtx/) Done
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) Done
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/) Done
-- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) Done
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) Done
-- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
-- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+- [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/) Done
+- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) Done
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) Done
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) Done
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
