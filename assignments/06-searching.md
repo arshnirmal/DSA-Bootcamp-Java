@@ -16,9 +16,9 @@
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) Done
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) Done
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) Done
-- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
-- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) Done
+- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) Done
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) Done
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
