@@ -13,10 +13,10 @@
 - [Majority Element](https://leetcode.com/problems/majority-element/) Done
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) Done
 - [Missing Number](https://leetcode.com/problems/missing-number/) Done
-- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) Done
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
-- [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+- [Assign Cookies](https://leetcode.com/problems/assign-cookies/) Done
 - [Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
