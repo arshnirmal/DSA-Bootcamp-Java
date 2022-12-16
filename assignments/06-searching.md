@@ -20,8 +20,8 @@
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) Done
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) Done
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-- [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
-- [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+- [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) Done
+- [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) Done
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - [Binary Search](https://leetcode.com/problems/binary-search/)
 
@@ -31,7 +31,7 @@
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/) Done
 - [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - [Reach a Number](https://leetcode.com/problems/reach-a-number/)
 - [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
